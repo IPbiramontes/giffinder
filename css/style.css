@@ -3,6 +3,11 @@ body {
     padding-top: 200px;
    /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 }
+img{
+    width:25%;
+    height:25%;
+    
+}
 
 footer {
     padding-top: 100px;
